@@ -12,5 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/ngalstyan4/hackprinceton#readme"
+  "homepage": "https://bitbucket.org/ngalstyan4/hackprinceton#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
